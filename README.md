@@ -50,15 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkhafidm&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkhafidm" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/mkhafidm)
