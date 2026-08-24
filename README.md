@@ -3,13 +3,11 @@
 
 ---
 
-### 🚀 About Me
-
-- 🔧 **Full-stack data developer** — comfortable across the entire lifecycle: **Data Engineering** (ETL/ELT, orchestration, warehousing) → **Data Analytics** (insights, dashboards) → **AI/ML deployment** (model serving, MLOps)
-- 🧠 Currently diving deep into **Retrieval-Augmented Generation (RAG)** and LLM pipelines — bridging the gap between structured data and intelligent AI systems
-- ⚙️ I thrive on architecting reliable, production-ready pipelines that turn messy raw data into actionable assets
-- 🌱 Constantly exploring new tools, breaking things, and rebuilding them better
-- 💬 Open to roles in **Data Engineering, Data Analytics, AI Engineering, or MLOps** — I adapt quickly and love working at the intersection of data and code
+### 🚀 **About Me**
+- 🤖 **Intelligent Automation & AI:** Integrating AI solutions, RAG architectures, and automation workflows to streamline operational and business processes from end to end.
+- ⚙️ **Robust Data Infrastructure:** Architecting scalable data pipelines, ETL/ELT orchestration, and data warehousing ready for production environments.
+- 📊 **Actionable Analytics:** Translating complex raw data into sharp business intelligence and impactful analytics to drive strategic decision-making.
+- 💡 **Adaptable & Execution-Driven:** Experienced in taking full ownership of end-to-end projects with a strong focus on efficiency, code quality, and practical problem-solving.
 
 ---
 
@@ -19,6 +17,14 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikitlearn)
+![Qdrant](https://img.shields.io/badge/-Qdrant-black?style=flat-square&logo=qdrant)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)
 
 **Data Engineering & Warehousing**
 
@@ -33,14 +39,6 @@
 
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-black?style=flat-square&logo=looker)
-
-**AI & Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikitlearn)
-![Qdrant](https://img.shields.io/badge/-Qdrant-black?style=flat-square&logo=qdrant)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)
 
 **Tools & Environment**
 
