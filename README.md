@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khafid 👋</h1>
-<h3 align="center">Data & AI Engineer | Building scalable data & AI pipelines | Turning raw data into intelligent insights</h3>
+<h3 align="center">AI Automation & Data Engineer | Building intelligent AI workflows, Scalable Data Pipelines, & Analytics</h3>
 
 ---
 
